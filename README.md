@@ -4,16 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungmoemyint007&label=Profile%20views&color=0e75b6&style=flat" alt="aungmoemyint007" /> </p>
 
 - 🔭 I’m currently working on **University of Information Technology**
-
-- 🌱 I’m currently learning **Kubernetes**
-
-- 👯 I’m looking to collaborate on **Banking**
-
-- 🤝 I’m looking for help with **Banking**
-
 - 💬 Ask me about **python**
-
-- 📫 How to reach me **mgaungmoemyint2005@gmail.com**
+- 📫 How to reach me **hsumyatnoe2092@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
