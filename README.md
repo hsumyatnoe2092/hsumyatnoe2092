@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungmoemyint007&label=Profile%20views&color=0e75b6&style=flat" alt="aungmoemyint007" /> </p>
 
-- 🔭 I’m currently working on **University of Information Technology**
+- 🔭 I’m currently studying on **University of Information Technology**
 - 💬 Ask me about **python**
 - 📫 How to reach me **hsumyatnoe2092@gmail.com**
 
